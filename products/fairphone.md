@@ -20,11 +20,11 @@ customColumns:
 releases:
 -   releaseCycle: "5"
     releaseLabel: "Fairphone 5"
-    supportedAndroidVersions: "13"
+    supportedAndroidVersions: "13 - 14"
     releaseDate: 2023-09-14
     discontinued: false
     eoas: false
-    eol: 2031-09-14 # according to https://www.gsmarena.com/fairphone_5_goes_official_with_5_years_warranty_up_to_10_years_of_software_support-news-59724.php
+    eol: 2031-09-14 # according to https://support.fairphone.com/hc/en-us/articles/9979180437393-Fairphone-OS
     link: https://support.fairphone.com/hc/articles/18020671537041-Fairphone-5-FAQ
 
 -   releaseCycle: "4"
