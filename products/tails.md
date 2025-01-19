@@ -23,8 +23,8 @@ releases:
 -   releaseCycle: "6"
     releaseDate: 2024-02-27
     eol: false
-    latest: "6.8"
-    latestReleaseDate: 2024-10-08
+    latest: "6.11"
+    latestReleaseDate: 2025-01-09
 
 -   releaseCycle: "5"
     releaseDate: 2022-05-03
@@ -61,5 +61,5 @@ releases:
 > [Tails](https://tails.net/about/), or _The Amnesic Incognito Live System_, is a
 > security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
 
-Tails [provides upgrades every six weeks](https://tails.net/support/faq/#upgrade) and only
+Tails [provides upgrades every four weeks](https://tails.net/support/faq/#upgrade) and only
 supports the latest release.
