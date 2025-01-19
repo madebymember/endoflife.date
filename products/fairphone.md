@@ -39,7 +39,7 @@ releases:
 -   releaseCycle: "3+"
     releaseLabel: "Fairphone 3+"
     supportedAndroidVersions: 10 - 13
-    releaseDate: 2020-09-30
+    releaseDate: 2020-09-14
     discontinued: 2022-11-01
     eoas: true
     eol: 2025-09-30
@@ -47,8 +47,8 @@ releases:
 
 -   releaseCycle: "3"
     releaseLabel: "Fairphone 3"
-    supportedAndroidVersions: 10 - 13
-    releaseDate: 2019-09-30
+    supportedAndroidVersions: 9 - 13
+    releaseDate: 2019-09-03
     discontinued: 2021-09-01
     eoas: true
     eol: 2024-09-30
